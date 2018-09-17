@@ -16,5 +16,5 @@
         android:text="@string/show_toast"
         android:onClick="displayToastMsg"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent" />
+        app:layout_constraintTop_toTopOf="parent"/>
 </android.support.constraint.ConstraintLayout>
